@@ -1,6 +1,15 @@
 # dnd-interactive-character-sheet
 React / MongoDB full-stack app to store and create DND characters
 
+TODO - set up serverjs and all things server! 
+
+Growth goals
+- Solid CSS
+- Typescript on the client side
+- React on the client side
+- MongoDB / ApolloGraphQL
+
+
 Goals
 1. Create a DB storing character information using created character
 Models: 
