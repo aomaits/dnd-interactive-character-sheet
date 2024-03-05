@@ -1,0 +1,27 @@
+{
+  "name": "dnd-app",
+  "version": "1.0.0",
+  "description": "dnd-app server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aomaits/dnd-interactive-character-sheet.git"
+  },
+  "keywords": [
+    "dnd",
+    "character",
+    "sheet",
+    "dndbeyond",
+    "react",
+    "mongodb"
+  ],
+  "author": "Abe Omaits (https://github.com/aomaits)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aomaits/dnd-interactive-character-sheet/issues"
+  },
+  "homepage": "https://github.com/aomaits/dnd-interactive-character-sheet#readme"
+}
