@@ -1,5 +1,7 @@
 const { gql } = require("apollo-server-express");
 
+// TODO --- UPDATE ALL Queries & MUTATIONS
+
 // GraphQL schemas, queries, and mutations
 const typeDefs = gql`
   type Villager {
