@@ -39,6 +39,12 @@ const characterSchema = new Schema({
             ref: 'Basic'
         }
     ],
+    skills: [
+        {
+            type: Schema.Types.ObjectId,
+            ref: 'Skill'
+        }
+    ],
 })
 
 const Character = mongoose.model('Character', characterSchema);
