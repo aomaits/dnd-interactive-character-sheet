@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 // use the schema constructor from mongoose
 const { Schema } = mongoose;
 
-// mongoose Schema constructor for request
+// mongoose Schema constructor for basics
 const basicSchema = new Schema({
   name: {
     type: String,
