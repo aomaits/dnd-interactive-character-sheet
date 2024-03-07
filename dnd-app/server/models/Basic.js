@@ -18,31 +18,30 @@ const basicSchema = new Schema({
     trim: true
   },
 
+  age: {
+    type: String,
+    required: true,
+    trim: true
+  },
+
   race: {
     type: String,
     required: true,
     trim: true
   },
-  
+
   class: {
     type: String,
     required: true,
     trim: true
   },
 
-  
   level: {
     type: Number,
     required: true,
     trim: true
   },
-},
-  // {
-  //   toJSON: {
-  //     getter: true,
-  //   },
-  //   id: false,
-  // }
+}
 )
 
 const Basic = mongoose.model('Basic', basicSchema);

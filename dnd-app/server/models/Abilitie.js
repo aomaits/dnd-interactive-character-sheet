@@ -6,6 +6,7 @@ const { Schema } = mongoose;
 
 // mongoose Schema constructor for abilities
 const abilitieSchema = new Schema({
+
     strengthValue: {
         type: Number,
         required: true,

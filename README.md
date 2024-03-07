@@ -13,11 +13,10 @@ Growth goals
 Goals
 1. Create a DB storing character information using created character
 Models: 
-Skill 
 Basics (name, race, subrace, class, level)
+Skills
 Abilities (STR - CHA)
-
-Vital Stats (roficiency bonus, walking speed, inspiration, current hit points, maximum hp, temp hp)
+Vital Stats 
 Combat Stats (initiative, ac, defenses (resistances, immunities, vulnerabilities), conditions (blinded, charmed, deafened, frightened, grappled, incapacitated, invisible, paralyzed, petrified, poisoned, prone, restrained, stnned, unconscious | exhausted (level 1-6)))
 Traits
 Weapons
