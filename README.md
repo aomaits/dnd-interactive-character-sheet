@@ -17,10 +17,17 @@ Basics (name, race, subrace, class, level)
 Skills
 Abilities (STR - CHA)
 Vital Stats 
+Conditions
+
+-Next:
+exhaustionLevels
+Immunities
+Resistances
 Combat Stats (initiative, ac, defenses (resistances, immunities, vulnerabilities), conditions (blinded, charmed, deafened, frightened, grappled, incapacitated, invisible, paralyzed, petrified, poisoned, prone, restrained, stnned, unconscious | exhausted (level 1-6)))
 Traits
 Weapons
 
+-Someday: 
 Spells
 Saves  
 Senses 
