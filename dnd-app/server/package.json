@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/aomaits/dnd-interactive-character-sheet/issues"
   },
-  "homepage": "https://github.com/aomaits/dnd-interactive-character-sheet#readme"
+  "homepage": "https://github.com/aomaits/dnd-interactive-character-sheet#readme",
+  "dependencies": {
+    "mongoose": "^7.2.2"
+  }
 }
